@@ -1,7 +1,7 @@
 name: Sonarcloud analysis
 env:
   sonarcloud_project_name: 'msdocs-app-service-sqldb-dotnetcore'
-  sonarcloud_organization: 'BeaDI19'
+  sonarcloud_organization: 'beadi19'
 on:
   workflow_dispatch:
 jobs:
