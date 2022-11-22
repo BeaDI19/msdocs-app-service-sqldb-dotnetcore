@@ -3,7 +3,7 @@
 
 name: Build & generate artifacts for ASP.Net app
 
-#variable d'env
+# variable d'env
 env: 
   DOTNET_VERSION: '6.0.x'
   
